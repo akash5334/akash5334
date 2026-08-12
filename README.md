@@ -70,43 +70,22 @@ The PDF specifically identifies Sales Cloud, Service Cloud, Commerce Cloud, Comm
 🔄 Main Workflow
 
 Customer
-
    │
-   
    ▼
-   
 TripAdvisor E-Management
-
-
    │
-   
    ├── Hotel Management
-
-   │      
-          └── Food Options
-   
+   │      └── Food Options
    │
-   
    ├── Flight Management
-   
-   │    
-         └── 24-Hour Reminder
-   
+   │      └── 24-Hour Reminder
    │
-   
    ├── Customer Management
-   
-   │ 
-         └── Discount Automation
-   
+   │      └── Discount Automation
    │
-   
    └── Salesforce Automation
-   
           ├── Flow
-          
           ├── Apex Trigger
-          
           └── Scheduled Apex
           
 🧪 Testing
