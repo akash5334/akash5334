@@ -68,26 +68,45 @@ APIs	Third-party system integration
 The PDF specifically identifies Sales Cloud, Service Cloud, Commerce Cloud, Community Cloud, Lightning Experience, Salesforce Shield, Marketing Cloud, APIs, Flows, Process Builder, and Workflow Rules as technologies/concepts used in the implementation.
 
 🔄 Main Workflow
+
 Customer
 
    │
    
    ▼
+   
 TripAdvisor E-Management
 
+
    │
+   
    ├── Hotel Management
-   │      └── Food Options
+
+   │      
+          └── Food Options
+   
    │
+   
    ├── Flight Management
-   │      └── 24-Hour Reminder
+   
+   │    
+         └── 24-Hour Reminder
+   
    │
+   
    ├── Customer Management
-   │      └── Discount Automation
+   
+   │ 
+         └── Discount Automation
+   
    │
+   
    └── Salesforce Automation
+   
           ├── Flow
+          
           ├── Apex Trigger
+          
           └── Scheduled Apex
           
 🧪 Testing
