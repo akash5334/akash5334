@@ -69,9 +69,12 @@ The PDF specifically identifies Sales Cloud, Service Cloud, Commerce Cloud, Comm
 
 🔄 Main Workflow
 Customer
+
    │
+   
    ▼
 TripAdvisor E-Management
+
    │
    ├── Hotel Management
    │      └── Food Options
